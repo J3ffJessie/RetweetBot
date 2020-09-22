@@ -5,9 +5,9 @@ Simple Retweet bot for Twitter
 
 dependencies: twit
 
-node bot.js to run the program in the CLI.
+node index.js to run the program in the CLI.
 
-inside bot.js you can change the hashtag that you wish to use as the criteria to retweet. You can also change the total number of tweets to cycle through for retweeting.
+inside index.js you can change the hashtag that you wish to use as the criteria to retweet. You can also change the total number of tweets to cycle through for retweeting.
 
 Make sure to check the Twitter docs to know what the limit for retweeting is at one time.
 
